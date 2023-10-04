@@ -1,4 +1,4 @@
-Java Robot Navigation Project
+Robot Project
 
 A GUI-based Java project that features three types of robots: Random Robot, Memory Robot, and Right Hand Robot. Each robot has a unique way of navigating the maze to reach 
 the goal. 
